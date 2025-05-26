@@ -32,7 +32,7 @@ Die GPLv3-Lizenz enthält von Natur aus Bestimmungen bezüglich Gewährleistung 
  * Die Urheberrechtsinhaber (MrCookie und Gemini) haften NICHT für Schäden (direkte, indirekte, zufällige, spezielle, exemplarische oder Folgeschäden), die sich aus der Nutzung oder der Unfähigkeit zur Nutzung dieses Programms ergeben.
 Den vollständigen Lizenztext finden Sie in der Datei LICENSE in diesem Repository.
 Copyright
-Copyright (C) 2025 MrCookie und Gemini
+Copyright (C) 2025 MrCookie (formerly "Philipp")
 
 Dieses Programm ist freie Software: Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation, veröffentlicht, entweder Version 3 der Lizenz oder (nach Ihrer Wahl) jede spätere Version, weiterverbreiten und/oder modifizieren.
 Dieses Programm wird in der Hoffnung nützlich zu sein, aber OHNE JEGLICHE GEWÄHRLEISTUNG, selbst ohne die implizite Gewährleistung der MARKTGÄNGIGKEIT oder der EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, verbreitet. Einzelheiten dazu finden Sie in der GNU General Public License.
